@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ZainZafar15/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZainZafar15/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZainZafar15/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ZainZafar15/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ZainZafar15/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZainZafar15/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZainZafar15/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ZainZafar15/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ZainZafar15/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZainZafar15/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZainZafar15/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ZainZafar15/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ZainZafar15/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZainZafar15/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ZainZafar15/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/ZainZafar15/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ZainZafar15/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZainZafar15/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ZainZafar15/LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
